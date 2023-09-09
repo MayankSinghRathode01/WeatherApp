@@ -1,0 +1,17 @@
+#city-input, #weather-output {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.banner {
+  color: #FFD23F;
+  font-family: sans-serif;
+}
+
+body{
+  background-color: rgb(148, 83, 158);
+}
+
+.main-heading{
+  font-weight: 900;
+}
